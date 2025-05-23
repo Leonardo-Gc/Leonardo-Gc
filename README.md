@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A0C7F&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2A0C7F&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Gomes+Coelho;I+study+analysis+and+systems+development+at+Estacio;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9759F7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Gomes+Coelho;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Gc&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Gomes Coelho github stats"/> 
@@ -14,17 +14,40 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Leonardo-Gc&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">  
-<a href="https:///" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
- 
+## 📘
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9759F7&center=true&vCenter=true&width=600&lines=Currently+learning:"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Leonardo-Gc/Leonardo-Gc/assets/your-gif-id/neon-tech.gif" width="400"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-2A0C7F?style=for-the-badge&logo=python&logoColor=3776AB">
+  <img src="https://img.shields.io/badge/JavaScript-2A0C7F?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</p>
+
+## 📫
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9759F7&center=true&vCenter=true&width=600&lines=Let’s+chat!+Click+the+icons+below:"/>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="mailto:seuemail@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+  <a href="https://wa.me/seunumerowhatsapp" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp.png"/></a>
+  <a href="https://t.me/seutelegram" target="_blank"><img src="https://img.icons8.com/color/48/000000/telegram-app.png"/></a>
+</p>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Leonardo-Gc}/count.svg" /></p> 
 <br></div>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
