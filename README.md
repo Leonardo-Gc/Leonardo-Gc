@@ -13,24 +13,17 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Leonardo-Gc&theme=matrix&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<p align="center">🎓📘</p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9759F7&center=true&vCenter=true&width=600&lines=Currently+learning:"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9759F7&center=true&vCenter=true&width=600&lines=🎓+Currently+learning:"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/Leonardo-Gc/Leonardo-Gc/assets/your-gif-id/neon-tech.gif" width="400"/>
-</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-2A0C7F?style=for-the-badge&logo=python&logoColor=3776AB">
   <img src="https://img.shields.io/badge/JavaScript-2A0C7F?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </p>
-
-<p align="center">💻📫</p>
-
+<br><br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9759F7&center=true&vCenter=true&width=600&lines=Let’s+chat!+Click+the+icons+below:"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9759F7&center=true&vCenter=true&width=600&lines=📫+Let’s+chat!+Click+the+icons+below:"/>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
