@@ -45,9 +45,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Leonardo-Gc}/count.svg" /></p> 
 <br></div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
-</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15e5a6&height=120&section=footer"/>
 
