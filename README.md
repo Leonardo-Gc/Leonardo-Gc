@@ -28,7 +28,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="mailto:leonardogomesc99@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
-  <a href="https://wa.me/seunumerowhatsapp" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp.png"/></a>
   <a href="https://t.me/seutelegram" target="_blank"><img src="https://img.icons8.com/color/48/000000/telegram-app.png"/></a>
 </p>
 
